@@ -39,7 +39,7 @@ FBI Nuker | Versão: 1.3.0 - Feito por: user 001 e duda 001
 - `[]` = opcional
 
 # 1. Nuke (destruir servidor)
-`.1`, `.nk`, `.nuke`, `.atacar`, `.dest`, `.destruir`, `.atack` **ou** `.n` **+** `[banir 1/0]` `[seu texto]`
+`.1`, `.nk`, `.nuke`, `.atacar`, `.dest`, `.destruir`, `.attack` **ou** `.n` **+** `[banir 1/0]` `[seu texto]`
 
 # 2. Banir todos os membros do servidor
 `.2`, `.be`, `.baneveryone`, `.banall`, `.banirtodos` **ou** `.ba`
