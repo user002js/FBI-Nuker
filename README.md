@@ -22,7 +22,7 @@
     ·
     <a href="https://github.com/user001js/FBI-NUKER/issues">Reporte um bug</a>
     ·
-    <a href="https://discord.gg/g9GeX7JyAH">Servidor do Discord
+    <a href="https://discord.gg/g9GeX7JyAH">Servidor do Discord</a>
   </p>
 </p>
 
@@ -83,16 +83,17 @@
 # 14. Obter cargo com a permissão de "Administrador"
 `.14`, `.ga`, `.getadmin`, `.obteradmin`, `.conseguiradmin` + `<nome do cargo>`
 
-# 15. Recuperar (somente em mensagem direta com o bot)
-* Cria 1 canal de texto no servidor de preferência
+# 15. Recuperar servidor (cria um canal de texto no servidor de preferência)
+* Só é possível usar este comando na MD (mensagem direta, privado) do bot.
 
 `.15`, `.rg`, `.recuperarservidor`, `.rs` ou `.recuperateserver` + `<ID do servidor>`
 
 # 16. Configurações
 `.settings`, `.config`, `.configurações` ou `.cfg`
 
-# Instalação
-Você pode clonar este repositório git ou baixar a pasta em .zip [aqui](https://github.com/user001js/FBI-Nuker/archive/refs/heads/main.zip) ou vá para https://github.com/user001js/FBI-Nuker/releases/tag/FBI-Nuker
+### Instalação
+
+Você pode clonar ou baixar a pasta em `.zip` [aqui](https://github.com/user001js/FBI-Nuker/archive/refs/heads/main.zip) ou baixe a pasta em `.rar` ou `.7z` clicando [aqui](https://github.com/user001js/FBI-Nuker/releases/tag/FBI-Nuker).
 
 ### 1. Clone este repositório git
 - Execute o comando abaixo no seu Promt de Comando.
