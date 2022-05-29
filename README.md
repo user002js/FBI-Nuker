@@ -106,7 +106,7 @@ git clone https://github.com/user001js/FBI-Nuker
 ### 4. Aguarde até que o painel abaixo apareça para você.
 <img src="https://camo.githubusercontent.com/da5a5671aedb559eb1c5d70c86eac93df1b35709b4d03d33a599559e3ad6a3f1/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3937313037383136363635333333373636302f3938303234333431353637313430323530362f756e6b6e6f776e2e706e673f77696474683d383130266865696768743d343233" alt = "FBI Nuker Painel">
 
-# Como usar o **FBI Nuker v3.0** OTY5ODM4OTg3NjIxNTcyNjc4.GdRRvD.brst8vAwP0nZOecAB8uxYoXxUhuBNHL6G3_5oY
+# Como usar o **FBI Nuker v3.0**
 
 ### 1. Após aparecer o painel mostrado acima, você precisará colocar o Token do seu bot
 * Não sabe como criar um bot? Clique [aqui](https://youtube.com/) para assistir um tutorial de como criar seu bot.
