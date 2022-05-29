@@ -99,7 +99,7 @@ Você pode clonar este repositório git ou baixar a pasta em .zip [aqui](https:/
 ```console
 git clone https://github.com/user001js/FBI-Nuker
 ```
-### 2. Abra a pasta **FBI-Nuker**
+### 2. Abra a pasta **FBI-Nuker** e em seguida a pasta **src**
 ### 3. Execute o arquivo `build-start.bat`
 ![](https://user-images.githubusercontent.com/101312928/170845755-f310033d-b94c-478f-adf5-9744b43923c9.png)
 
