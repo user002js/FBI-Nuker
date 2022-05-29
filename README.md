@@ -148,5 +148,7 @@ Clique [aqui](https://discord.com/developers/applications) para adicionar o bot 
 # Créditos
 
 Criador, autor e tradutor: @user001js
+
 Criadora adjunta: @duda001js
+
 UI Designer: @user001js
