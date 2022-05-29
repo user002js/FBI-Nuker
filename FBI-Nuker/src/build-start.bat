@@ -1,15 +1,18 @@
 @echo off
-title Instalando os requerimentos...
-Pause
-rem CONTINUE APENAS SE TIVER O PYTHON INSTALADO E ADICIONADO AO PATH! Pressione qualquer tecla para continuar. . .
-echo on
-pip install -r requirements.txt
-rem Instalando os requirements.txt
+title Verifique se o Python está instalado em seu aparelho
 
+echo Continue somente se o Python estiver instalado e adicionado ao PATH!
+
+pause
+
+echo Pressione qualquer tecla para continuar. . .
 cls
 
-@echo off
+title Instalando os requirements.txt
+pip install -r requirements.txt
+
 title FBI Nuker v3.0 - by user 001 and duda 002
-Pause
-rem Obrigado por usar o FBI Nuker! Pressione qualquer tecla para continuar. . .
+echo Obrigado por usar o FBI Nuker!
+pause
+echo Pressione qualquer tecla para continuar. . .
 python FBINuker.pyc
