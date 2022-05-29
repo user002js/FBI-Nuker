@@ -92,7 +92,7 @@
 `.settings`, `.config`, `.configurações` ou `.cfg`
 
 # Instalação
-Você pode clonar este repositório git ou baixar a pasta em .zip [aqui](https://github.com/user001js/FBI-Nuker/archive/refs/heads/main.zip) ou [aqui](https://github.com/user001js/FBI-Nuker/releases)
+Você pode clonar este repositório git ou baixar a pasta em .zip [aqui](https://github.com/user001js/FBI-Nuker/archive/refs/heads/main.zip) ou [aqui](https://github.com/user001js/FBI-Nuker/releases/tag/FBI-Nuker)
 
 ### 1. Clone este repositório git
 - Execute o comando abaixo no seu Promt de Comando.
